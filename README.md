@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `document_intelligence_wrapper` is a Python package that provides a wrapper around the Azure Document Intelligence API. It offers easy-to-use functions to extract structured data, including text and tables, from documents. This wrapper is designed to handle complex document structures, such as tables with merged cells, and convert the extracted data into Markdown format, which is particularly useful for Generative AI processes and other automated text-processing workflows.
+The `document_intelligence_wrapper` is a Python package that provides a wrapper around the Azure Document Intelligence API. It offers easy-to-use functions to extract structured data, including text and tables, from documents. This wrapper is designed to handle complex document structures, such as tables with merged cells, and convert the extracted data into Markdown format, which is particularly useful for Generative AI processes and other automated text-processing wflows.
 
 ## Features
 
@@ -21,7 +21,7 @@ The `document_intelligence_wrapper` is a Python package that provides a wrapper 
 
 To use this package, simply install it, and all necessary dependencies will be automatically downloaded. Run the following command in your terminal to install the package:
 ```python
-pip install document-intelligence-wrapper==1.0.0b1
+pip install document-intelligence-wrapper==1.0.0b2
 ```
 
 # Supported Formats
